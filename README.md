@@ -25,7 +25,7 @@ Below is the BibTex for citing this version of the code.
   year =          {2024},
   doi =           {10.1287/ijoc.2022.0287.cd},
   url =           {https://github.com/INFORMSJoC/2022.0287},
-  note = {Available for download at https://github.com/INFORMSJoC/2022.0287)},
+  note =           {Available for download at https://github.com/INFORMSJoC/2022.0287)},
 }  
 ```
 
